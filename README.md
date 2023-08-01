@@ -13,7 +13,7 @@ INTEGANTES
 ## PROCEDIMIENTO
 ### DIAGRAMA
   ![1.png](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/1.png)
-### DIAGRAMA 1
+### DIAGRAMA 1 (EXTRA)
   ![2.png](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/2.png)
 ### Archivos csv
 ![3.png](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/3.png)

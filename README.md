@@ -12,4 +12,4 @@ INTEGANTES
 
 ## PROCEDIMIENTO
 
-![](1.png)
+  ![](COUCHDB.png)

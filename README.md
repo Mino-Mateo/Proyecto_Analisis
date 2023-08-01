@@ -43,6 +43,10 @@ INTEGANTES
 ![AAA](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/AAA.png)
 ### SUBIDA DEL CSV A SQL EN BASE DE DATOS
 ![AAAA](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/AAAA.png)
+### JSON A MYSQL (EXTR)
+![BB](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/BB.png)
+### JSON A SQL SERVER (EXTRA)
+![BBB](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/BBB.png)
 
  
 

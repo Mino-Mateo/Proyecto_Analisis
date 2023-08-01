@@ -12,4 +12,4 @@ INTEGANTES
 
 ## PROCEDIMIENTO
 
-  ![](COUCHDB.png)
+  ![COUCHDB.png](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/9.png)

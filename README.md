@@ -18,8 +18,16 @@ INTEGANTES
 ### Archivos csv
 ![3.png](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/3.png)
 ### Archivo excel
-![image](https://github.com/Mino-Mateo/Proyecto_Analisis/assets/117743120/84b0387c-9664-4509-a6d3-3f44fdbebfe7)
-
+![4.png](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/4.png)
+### ARCHIVO JSON
+![5.png](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/5.png)
+### EXCEL A CSV
+![6.png](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/6.png)
+### JSON A CSV
+![7.png](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/7.png)
+### LIMPIAR ARCHIVOS
+![8.png](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/8.png)
 ### COUCHDB
-  ![COUCHDB.png](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/9.png)
+![9.png](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/9.png)
+  
 

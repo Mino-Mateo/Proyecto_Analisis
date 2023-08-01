@@ -37,9 +37,14 @@ INTEGANTES
 ![12.png](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/12.png)
 ![REDIS.png](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/REDIS.png)
 ### MONGODB A COUCHDB
-
 ![11.png](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/11.png)
 ![MONGODBACOUCHDB.png](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/MONGODBACOUCHDB.png)
+### BASE DE DATOS CREADA NORMALMENTE 
+![AAA](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/AAA.png)
+### SUBIDA DEL CSV A SQL EN BASE DE DATOS
+![AAAA](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/AAAA.png)
+
+ 
 
 
 

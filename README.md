@@ -29,5 +29,19 @@ INTEGANTES
 ![8.png](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/8.png)
 ### COUCHDB
 ![9.png](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/9.png)
-  
+![COUCHDB.png](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/COUCHDB.png)
+### MONGODB
+![10.png](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/10.png)
+![MONGODB.png](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/MONGODB.png)
+### REDIS
+![11.png](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/11.png)
+![REDIS.png](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/REDIS.png)
+### MONGODB A COUCHDB
+![12.png](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/12.png)
+![MONGODBACOUCHDB.png](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/MONGODBACOUCHDB.png)
+
+
+
+
+
 

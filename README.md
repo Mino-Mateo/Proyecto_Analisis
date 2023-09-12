@@ -57,7 +57,7 @@ https://www.youtube.com/watch?v=kavP9WcnT78&t=7s
 ![MLink](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/MLink.jpg)
 
 ### 600k (Faltan 400k)
-![SeiscientosK](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/Seiscientos.jpg)
+![SeiscientosK](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/SeiscientosK.jpg)
 
 ### 1 millon de archivos subidos
 ![NDocs](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/NDocs.jpg)

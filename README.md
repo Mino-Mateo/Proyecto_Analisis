@@ -9,6 +9,8 @@ INTEGANTES
 * Washington Villares 
 * Danny Yanacallo
 ----------------------------------------------------------------
+LINKS DE LOS VIDEOS <br>
+https://www.youtube.com/watch?v=kavP9WcnT78&t=7s
 
 ## PROCEDIMIENTO
 ### DIAGRAMA

@@ -10,7 +10,12 @@ INTEGANTES
 * Danny Yanacallo
 ----------------------------------------------------------------
 LINKS DE LOS VIDEOS <br>
+
+### Video Carga de Datos a bases no SQL y SQL
 https://www.youtube.com/watch?v=kavP9WcnT78&t=7s
+
+### Video Analisis
+https://youtu.be/NVz-wynxqe4 
 
 ## PROCEDIMIENTO
 ### DIAGRAMA

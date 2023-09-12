@@ -51,7 +51,7 @@ https://www.youtube.com/watch?v=kavP9WcnT78&t=7s
 ![BBB](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/BBB.png)
 
 ### SUBIR 1 MILLON DE ARCHIVOS
-![MCodigo]([https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/MCodigos/BBB.jpg](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/MCodigo.jpg)
+![MCodigo](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/MCodigo.jpg)
 
 
 

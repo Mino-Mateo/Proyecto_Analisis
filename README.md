@@ -50,8 +50,19 @@ https://www.youtube.com/watch?v=kavP9WcnT78&t=7s
 ### JSON A SQL SERVER (EXTRA)
 ![BBB](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/IMAGENES/BBB.png)
 
-### SUBIR 1 MILLON DE ARCHIVOS
+### SUBIR ARCHIVOS
 ![MCodigo](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/MCodigo.jpg)
+
+### SUBIR MEDIANTE LINK
+![MLink](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/MLink.jpg)
+
+### 600k (Faltan 400k)
+![SeiscientosK](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/Seiscientos.jpg)
+
+### 1 millon de archivos subidos
+![NDocs](https://github.com/Mino-Mateo/Proyecto_Analisis/blob/main/NDocs.jpg)
+
+
 
 
 
